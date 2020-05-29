@@ -14,6 +14,33 @@
 
 ### Day 1: May 28, 2020
 
+**Today's Progress**: Got one chapter done today List in my current book. 
+
+**Thoughts:** Got inspired by a twitter post from Kyle Prinsloo: 
+
+> My first client was a $5 Fiverr sale.
+> 
+> That turned into a $100 Wireframe.
+> 
+> That turned into a $1,000 Website.
+> 
+> That turned into Referral Clients.
+> 
+> All from this ONE client.
+> 
+> Start "small" 
+> Thumbs up
+ 
+Schedule adjustments need to be made for productivity.
+
+**Link to work:**
+
+[Code Reference Examples](https://codepen.io/collection/DQaOpv)
+
+[Chapter 3 Lists Project](https://codepen.io/jesse111ramirez/pen/ZEbdXaJ)
+
+### Day 2: May 29, 2020
+
 **Today's Progress**:
 
 **Thoughts:**
